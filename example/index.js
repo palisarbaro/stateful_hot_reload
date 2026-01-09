@@ -1,4 +1,4 @@
-const { hot_reloading, watch } = require("../src");
+const { hot_reloading, watch } = require("@palisarbaro/stateful_hot_reload");
 
 let state;
 const initialize_state = async () => {

@@ -6,6 +6,8 @@ This leads to the following problems.
 1. This slows down reloads because state initialization is slow (connecting to the database, waiting for other services, etc.).
 2. During development, it can be quite tedious to click buttons in the browser to get the app state suitable for testing a specific feature. Losing the app state forces you to repeat this process over and over again.
 
+## Installation
+```npm i @palisarbaro/stateful_hot_reload```
 
 ## Limitations
 1. You should not relay on require cache
