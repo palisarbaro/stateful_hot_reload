@@ -1,0 +1,19 @@
+{
+  "name": "@palisarbaro/stateful_hot_reload",
+  "version": "1.0.0",
+  "description": "A simple hot reload library for node.js that allows you to preserve application state across reloads.",
+  "main": "src/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palisarbaro/stateful_hot_reload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palisarbaro/stateful_hot_reload/issues"
+  },
+  "homepage": "https://github.com/palisarbaro/stateful_hot_reload#readme"
+}
